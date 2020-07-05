@@ -31,7 +31,7 @@ Perform a backtest using the backtrader library by making the indicator as menti
 - Plotting at **plot.png**.
 
 ###### Output:
--- Starting Portfolio Value: 100000.00
--- Final Portfolio Value: 102455923.69
+> Starting Portfolio Value: 100000.00
+> Final Portfolio Value: 102455923.69
 
 
